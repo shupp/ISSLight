@@ -24,11 +24,11 @@ Next, just edit the run.php file and put in your location and IP Power access in
 
 Now, when the ISS flies overhead, this happens:
 
-![Traffic Light](/pics/photo.jpg)
+![Traffic Light](/shupp/ISSLight/pics/photo.jpg)
 
 And to confirm, I pulled up my trusty [Where the ISS at?](http://wheretheiss.at) site and it looked like this:
 
-![Where the ISS at? screenshot](/pics/iss_overhead.png)
+![Where the ISS at? screenshot](/shupp/ISSLight/pics/iss_overhead.png)
 
 Enjoy!
 

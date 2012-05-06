@@ -1,6 +1,6 @@
 #Overview
 
-This was a fun project to take a remote power controller (IP Power IP9258), a traffic light, and some software to turn on different lights when the ISS (International Space Station) was over your location.  The different color lights represent different visibility states:
+This is a fun project to take a remote power controller (IP Power IP9258), a traffic light, and some software to turn on different lights when the ISS (International Space Station) is over your location.  The different color lights represent different visibility states:
 
 * Red: The ISS is overhead but obscured by daylight
 * Yellow: The ISS is overhead but eclipsed by the Earth's shadow
@@ -16,7 +16,7 @@ To install via PEAR, just do the following:
     pear install shupp/Services_IPPower-alpha
 ```
 
-Next, just edit the run.php file and put in your location and IP Power access information.  Then try it out by executing the run.php file:
+Next, just clone this repository, edit the run.php file and put in your location and IP Power access information.  Then try it out by executing the run.php file:
 
 ```shell
     php run.php

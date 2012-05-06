@@ -13,5 +13,5 @@ $isslight = new ISSLight(
     false            // Whether we are using a single light (outlet one only)
 );                   //   or a 3 way traffic light (red/yellow/green)
 
-// $isslight->update(); // Run this once a day to get the latest TLE file
+// $isslight->updateTLE(); // Run this once a day to get the latest TLE file
 $isslight->run();

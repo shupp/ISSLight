@@ -24,7 +24,7 @@ Next, just clone this repository, edit the run.php file and put in your location
 
 Now, when the ISS flies overhead, this happens:
 
-![Traffic Light](https://raw.github.com/shupp/ISSLight/master/pics/photo.png)
+![Traffic Light](https://raw.github.com/shupp/ISSLight/master/pics/photo.jpg)
 
 And to confirm, I pulled up my trusty [Where the ISS at?](http://wheretheiss.at) site and it looked like this:
 
